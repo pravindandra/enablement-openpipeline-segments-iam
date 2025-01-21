@@ -19,7 +19,7 @@ metadata:
       icon: subject
     - title: View in ArgoCD
       icon: catalog
-      url: https://zany-carnival-xxjrqw9p9pcpvpv-ARGOCD_PORT_NUMBER_PLACEHOLDER.GITHUB_CODESPACES_PORT_FORWARDING_DOMAIN_PLACEHOLDER/applications/argocd/${{ values.projectName }}-${{ values.teamIdentifier }}-${{ values.releaseStage }}
+      url: https://zany-carnival-xxjrqw9p9pcpvpv-30100.GITHUB_CODESPACES_PORT_FORWARDING_DOMAIN_PLACEHOLDER/applications/argocd/${{ values.projectName }}-${{ values.teamIdentifier }}-${{ values.releaseStage }}
     - title: View in Dynatrace
       icon: catalog
       url: https://wpw27076.apps.dynatrace.com
